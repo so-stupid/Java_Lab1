@@ -26,12 +26,12 @@ package mypackage;
 javac -classpath ./classes -d ./classes src/mypackage/HelloWorld.java
 ```
 
-4) Выполнить программу
+## 4) Выполнить программу
 ```
  java -classpath ./classes mypackage.HelloWorld
 
 ```
-5) Упаковка в Jar
+## 5) Упаковка в Jar
 Сознание манифеста:
 ```
     Manifest-Version: 1.0
